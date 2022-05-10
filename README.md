@@ -194,7 +194,12 @@ For each target arm64 machine (in our case the Raspberry Pi 4Bs):
 
 ```
 git clone -b rpi-5.2.y --single-branch https://github.com/raspberrypi/linux
-
+git clone https://github.com/ssrg-vt/popcorn-kernel
+cd popcorn-kernel
+git diff e91ef5bcdeda8956eb9f1972ed90198b698dca0f main  > popcorn-rpi.patch
+cp popcorn-rpi.patch ../linux/
+cd ../linux
+git apply ./popcorn-rpi.patch
 ```
 
 
