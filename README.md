@@ -57,7 +57,7 @@ The specs we would have in total on all our machines:
         `:+ssssssssssssssssss+:`           -----------
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.4 LTS x86_64/ARM
     .ossssssssssssssssssdMMMNysssso.       Host: SSI Cluster
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.13.0-40-generic
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.2.21-popcorn
   +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 10 hours
  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 5.0.17
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080
