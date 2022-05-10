@@ -7,9 +7,6 @@ The IP addresses with corresponding MAC addresses - check MAC address by "ip add
 ![image](https://user-images.githubusercontent.com/75043245/167693757-d0b0a638-a1c2-4dd0-baae-dc91c1d52283.png)
 
 
-
-
-
 To learn more about Linux:
 
 - https://www.youtube.com/watch?v=wBp0Rb-ZJak
@@ -200,6 +197,8 @@ git diff e91ef5bcdeda8956eb9f1972ed90198b698dca0f main  > popcorn-rpi.patch
 cp popcorn-rpi.patch ../linux/
 cd ../linux
 git apply ./popcorn-rpi.patch
+
+sudo apt install -y gcc-aarch64-linux-gnu
 ```
 
 
