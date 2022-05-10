@@ -1,5 +1,14 @@
 **Keep calm and build an SSI cluster**
 
+The IP addresses with corresponding MAC addresses - check MAC address by "ip addr" in terminal and then see it next to wlan... (for wifi) or eth.. (for ethernet)
+
+![image](https://user-images.githubusercontent.com/75043245/167693745-a349a76a-73e1-4756-9962-7deabe60f717.png)
+
+![image](https://user-images.githubusercontent.com/75043245/167693757-d0b0a638-a1c2-4dd0-baae-dc91c1d52283.png)
+
+
+
+
 
 To learn more about Linux:
 
