@@ -74,6 +74,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Very powerful/benchmark it (20 c
 
 
 ```
+----------------------------------------------------------------------------------------
 
 For the x86 ("normal" Intel/AMD machine in the cluster):
 
@@ -180,6 +181,7 @@ sudo modprobe msg_socket
 
 If you get no error, you're good to go!
 
+----------------------------------------------------------------------------------------
 
 For each target arm64 machine (in our case the Raspberry Pi 4Bs):
 
